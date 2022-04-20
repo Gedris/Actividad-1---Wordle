@@ -1,6 +1,11 @@
 # Actividad-1-Wordle / Arucutipa-Gedris-Navarro-Robles	
  Nuestro grupo es el nº10 y esta integrado por Andy Arucutipa, Nicolás Gedris, Julián Navarro y Maximo Robles
  
+ Algunos requisitos son:
+ 	- Acceso a internet
+	- Acceso al archivo "wordle.py"
+	- Acceso al archivo de texto "diccionario.txt"
+ 
 Las funcionalidades adicionales que va a tener nuestro wordle son:
 	- El programa obtiene las palabras desde un archivo de texto, base de datos, internet, etc.
 	- Mostrar el tiempo de juego. 

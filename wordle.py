@@ -1,5 +1,3 @@
-
-
 import random 
 import linecache
 import time
@@ -15,7 +13,6 @@ if (modo == 1):
     while len(palabra) != 6:
         palabra = linecache.getline("diccionario.txt",random.randint(1,80383))
         palabra = palabra.lower()
-    print(palabra)
     
     palabraIngresada = ""
 
